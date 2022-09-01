@@ -1,3 +1,3 @@
 ## A little shop website with Vue.js 
 
-Written for college course
+One of the first projects for Seneca college
